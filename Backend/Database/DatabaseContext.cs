@@ -1,10 +1,9 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore;
-using VendingMachine.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using Database.Models;
 
 namespace Database
 {
-    public class DatabaseContext : IdentityDbContext
+    public class DatabaseContext : DbContext
     {
         public DatabaseContext()
         {
@@ -41,7 +40,9 @@ namespace Database
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string connectionString = "Host=localhost;Port=5432;Database=InvintroDB;Username=postgres;Password=111";
+            /*string connectionString = "Host=localhost;Port=5432;Database=InvintroDB;Username=postgres;Password=111";*/
+
+            string connectionString = "Host=localhost;Port=5050;Database=InvintroDB;Username=postgres;Password=pg_pass";
             optionsBuilder.UseNpgsql(connectionString);
         }
     }

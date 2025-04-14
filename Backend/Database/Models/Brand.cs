@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-namespace VendingMachine.Models
+namespace Database.Models
 {
     public class Brand
     {

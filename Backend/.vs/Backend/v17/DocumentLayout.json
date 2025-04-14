@@ -1,53 +1,121 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\ivc_zhdanovsa\\source\\repos\\backend\\database\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\services\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|solutionrelative:services\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|c:\\users\\ivc_zhdanovsa\\source\\repos\\backend\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|solutionrelative:services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\ivc_zhdanovsa\\source\\repos\\backend\\database\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\ivc_zhdanovsa\\source\\repos\\backend\\database\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\ivc_zhdanovsa\\source\\repos\\backend\\database\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\ivc_zhdanovsa\\source\\repos\\backend\\database\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\ivc_zhdanovsa\\source\\repos\\backend\\database\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\ivc_zhdanovsa\\source\\repos\\backend\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Migrations\\20250414113655_InitCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20250414113655_InitCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA6E2A79-35BF-4F1D-8280-887C61065031}|API\\API.csproj|c:\\users\\ivc_zhdanovsa\\source\\repos\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA6E2A79-35BF-4F1D-8280-887C61065031}|API\\API.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA6E2A79-35BF-4F1D-8280-887C61065031}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA6E2A79-35BF-4F1D-8280-887C61065031}|API\\API.csproj|c:\\users\\ivc_zhdanovsa\\source\\repos\\backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\services\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|solutionrelative:services\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\services\\services\\coinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|solutionrelative:services\\services\\coinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\interface\\icoinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\interface\\icoinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\services\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|solutionrelative:services\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\services\\interfaces\\icoinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|solutionrelative:services\\interfaces\\icoinservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\interface\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\interface\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\repository\\coinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\repository\\coinrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\repository\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\repository\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\services\\interfaces\\processorderresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|solutionrelative:services\\interfaces\\processorderresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|solutionrelative:services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|solutionrelative:services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\models\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\migrations\\20250414113655_initcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\migrations\\20250414113655_initcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3CC18CB6-C070-4080-9D44-A9EDCF681776}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B690FBF-8FB1-4964-AD9D-0C86C6F45EFA}|Database\\Database.csproj|solutionrelative:database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Migrations\\20250414174857_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\Migrations\\20250414174857_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA6E2A79-35BF-4F1D-8280-887C61065031}|API\\API.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CA6E2A79-35BF-4F1D-8280-887C61065031}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA6E2A79-35BF-4F1D-8280-887C61065031}|API\\API.csproj|c:\\users\\ivc_zhdanovsa\\source\\repos\\backend\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{CA6E2A79-35BF-4F1D-8280-887C61065031}|API\\API.csproj|c:\\users\\serg1\\desktop\\introvisison\\backend\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{CA6E2A79-35BF-4F1D-8280-887C61065031}|API\\API.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
@@ -58,45 +126,370 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\Services\\OrderService.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAAJUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:10:37.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoinService.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Services\\CoinService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\CoinService.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Services\\CoinService.cs",
+              "RelativeToolTip": "Services\\Services\\CoinService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:07:52.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:07:20.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Services\\BrandService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\BrandService.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Services\\BrandService.cs",
+              "RelativeToolTip": "Services\\Services\\BrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:04:28.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICoinService.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Interfaces\\ICoinService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICoinService.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Interfaces\\ICoinService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICoinService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:01:36.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Interface\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Interface\\IBrandRepository.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Interface\\IBrandRepository.cs",
+              "RelativeToolTip": "Database\\Interface\\IBrandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:33:33.806Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Services\\Class1.cs",
-              "RelativeDocumentMoniker": "Services\\Class1.cs",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Services\\Class1.cs",
-              "RelativeToolTip": "Services\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 13,
+              "Title": "CoinRepository.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Repository\\CoinRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Repository\\CoinRepository.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Repository\\CoinRepository.cs",
+              "RelativeToolTip": "Database\\Repository\\CoinRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T13:18:36.664Z",
+              "WhenOpened": "2025-04-14T17:36:48.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Database\\Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:38:23.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Database\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:37:44.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Interface\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Interface\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Interface\\IOrderRepository.cs",
+              "RelativeToolTip": "Database\\Interface\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:35:32.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Interface\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Interface\\IProductRepository.cs",
+              "RelativeToolTip": "Database\\Interface\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:34:50.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICoinRepository.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Interface\\ICoinRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Interface\\ICoinRepository.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Interface\\ICoinRepository.cs",
+              "RelativeToolTip": "Database\\Interface\\ICoinRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:34:21.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:46:12.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Repository\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "Database\\Repository\\BrandRepository.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Repository\\BrandRepository.cs",
+              "RelativeToolTip": "Database\\Repository\\BrandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:36:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProcessOrderResult.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Interfaces\\ProcessOrderResult.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ProcessOrderResult.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Interfaces\\ProcessOrderResult.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ProcessOrderResult.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:02:30.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:00:51.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Database\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\DatabaseContext.cs",
+              "RelativeToolTip": "Database\\DatabaseContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:54:18.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Interfaces\\IBrandService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBrandService.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Interfaces\\IBrandService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:52:54.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Models\\Brand.cs",
+              "RelativeToolTip": "Database\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:33:35.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Services",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T17:53:37.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Database",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Database.csproj",
+              "RelativeDocumentMoniker": "Database\\Database.csproj",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Database.csproj",
+              "RelativeToolTip": "Database\\Database.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T17:32:48.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250414174857_Init.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Migrations\\20250414174857_Init.cs",
+              "RelativeDocumentMoniker": "Database\\Migrations\\20250414174857_Init.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Migrations\\20250414174857_Init.cs",
+              "RelativeToolTip": "Database\\Migrations\\20250414174857_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:48:57.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "20250414113655_InitCreate.cs",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Migrations\\20250414113655_InitCreate.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Migrations\\20250414113655_InitCreate.cs",
               "RelativeDocumentMoniker": "Database\\Migrations\\20250414113655_InitCreate.cs",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Migrations\\20250414113655_InitCreate.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Migrations\\20250414113655_InitCreate.cs",
               "RelativeToolTip": "Database\\Migrations\\20250414113655_InitCreate.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAgwEAAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T11:36:56.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 21,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Models\\Coin.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\Coin.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Models\\Coin.cs",
+              "RelativeToolTip": "Database\\Models\\Coin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:34:56.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Models\\Order.cs",
+              "RelativeToolTip": "Database\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:35:34.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Models\\Product.cs",
+              "RelativeToolTip": "Database\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:34:06.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Database\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\Database\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Database\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:36:15.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\API\\appsettings.json",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\API\\appsettings.json",
               "RelativeToolTip": "API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -104,116 +497,16 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\DatabaseContext.cs",
-              "RelativeDocumentMoniker": "Database\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\DatabaseContext.cs",
-              "RelativeToolTip": "Database\\DatabaseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:54:18.996Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:46:12.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Repository\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Database\\Repository\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Repository\\BaseRepository.cs",
-              "RelativeToolTip": "Database\\Repository\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:44:00.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Database\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Models\\OrderItem.cs",
-              "RelativeToolTip": "Database\\Models\\OrderItem.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:36:15.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Database\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Models\\Order.cs",
-              "RelativeToolTip": "Database\\Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:35:34.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Coin.cs",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Models\\Coin.cs",
-              "RelativeDocumentMoniker": "Database\\Models\\Coin.cs",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Models\\Coin.cs",
-              "RelativeToolTip": "Database\\Models\\Coin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:34:56.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Database\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Models\\Product.cs",
-              "RelativeToolTip": "Database\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:34:06.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "Database\\Models\\Brand.cs",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\Database\\Models\\Brand.cs",
-              "RelativeToolTip": "Database\\Models\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T08:33:35.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 28,
               "Title": "API.http",
-              "DocumentMoniker": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\API\\API.http",
+              "DocumentMoniker": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\API\\API.http",
               "RelativeDocumentMoniker": "API\\API.http",
-              "ToolTip": "C:\\Users\\ivc_zhdanovsa\\source\\repos\\Backend\\API\\API.http",
+              "ToolTip": "C:\\Users\\serg1\\Desktop\\IntroVisison\\Backend\\API\\API.http",
               "RelativeToolTip": "API\\API.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",

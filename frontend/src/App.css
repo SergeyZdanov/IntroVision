@@ -1,0 +1,10 @@
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    text-align: center;
+}
+
+    .product-card button {
+        width: 100%;
+    }

@@ -230,3 +230,5 @@ C:\Users\serg1\Desktop\IntroVisison\Backend\API\obj\Debug\net8.0\refint\API.dll
 C:\Users\serg1\Desktop\IntroVisison\Backend\API\obj\Debug\net8.0\API.pdb
 C:\Users\serg1\Desktop\IntroVisison\Backend\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\serg1\Desktop\IntroVisison\Backend\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\serg1\Desktop\IntroVisison\Backend\API\bin\Debug\net8.0\Services.dll
+C:\Users\serg1\Desktop\IntroVisison\Backend\API\bin\Debug\net8.0\Services.pdb

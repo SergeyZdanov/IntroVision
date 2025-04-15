@@ -10,3 +10,7 @@ C:\Users\serg1\Desktop\IntroVisison\Backend\Services\obj\Debug\net8.0\Services.d
 C:\Users\serg1\Desktop\IntroVisison\Backend\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\serg1\Desktop\IntroVisison\Backend\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\serg1\Desktop\IntroVisison\Backend\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\serg1\Desktop\IntroVisison\Backend\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\serg1\Desktop\IntroVisison\Backend\Services\bin\Debug\net8.0\Database.dll
+C:\Users\serg1\Desktop\IntroVisison\Backend\Services\bin\Debug\net8.0\Database.pdb
+C:\Users\serg1\Desktop\IntroVisison\Backend\Services\obj\Debug\net8.0\Services.csproj.Up2Date

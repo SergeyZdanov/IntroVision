@@ -5,7 +5,8 @@ namespace Database
 {
     public class DatabaseContext : DbContext
     {
-        public DatabaseContext()
+        public DatabaseContext(DbContextOptions<DatabaseContext> options)
+            : base(options)
         {
         }
         public DbSet<Brand> Brands { get; set; }
@@ -38,12 +39,12 @@ namespace Database
             );
         }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+       /* protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            /*string connectionString = "Host=localhost;Port=5432;Database=InvintroDB;Username=postgres;Password=111";*/
+            *//*string connectionString = "Host=localhost;Port=5432;Database=InvintroDB;Username=postgres;Password=111";*//*
 
             string connectionString = "Host=localhost;Port=5050;Database=InvintroDB;Username=postgres;Password=pg_pass";
             optionsBuilder.UseNpgsql(connectionString);
-        }
+        }*/
     }
 }

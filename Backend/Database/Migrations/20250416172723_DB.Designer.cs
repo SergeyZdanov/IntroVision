@@ -3,6 +3,7 @@ using System;
 using Database;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace Database.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    partial class DatabaseContextModelSnapshot : ModelSnapshot
+    [Migration("20250416172723_DB")]
+    partial class DB
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -223,80 +226,6 @@ namespace Database.Migrations
                     b.HasIndex("BrandId");
 
                     b.ToTable("Products");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            BrandId = 1,
-                            ImageUrl = "/images/cola.jpg",
-                            Name = "Напиток газированный Coca-Cola",
-                            Price = 105m,
-                            Quantity = 10
-                        },
-                        new
-                        {
-                            Id = 2,
-                            BrandId = 2,
-                            ImageUrl = "/images/fanta.jpg",
-                            Name = "Напиток газированный Fanta",
-                            Price = 98m,
-                            Quantity = 5
-                        },
-                        new
-                        {
-                            Id = 3,
-                            BrandId = 3,
-                            ImageUrl = "/images/sprite.jpg",
-                            Name = "Напиток газированный Sprite",
-                            Price = 83m,
-                            Quantity = 8
-                        },
-                        new
-                        {
-                            Id = 4,
-                            BrandId = 4,
-                            ImageUrl = "/images/dr_pepper.jpg",
-                            Name = "Напиток газированный Dr. Pepper Zero",
-                            Price = 110m,
-                            Quantity = 0
-                        },
-                        new
-                        {
-                            Id = 5,
-                            BrandId = 5,
-                            ImageUrl = "/images/pepsi.jpg",
-                            Name = "Напиток газированный Pepsi",
-                            Price = 95m,
-                            Quantity = 12
-                        },
-                        new
-                        {
-                            Id = 6,
-                            BrandId = 6,
-                            ImageUrl = "/images/7up.jpg",
-                            Name = "Напиток газированный 7UP",
-                            Price = 85m,
-                            Quantity = 7
-                        },
-                        new
-                        {
-                            Id = 7,
-                            BrandId = 7,
-                            ImageUrl = "/images/mirinda.jpg",
-                            Name = "Напиток газированный Mirinda",
-                            Price = 92m,
-                            Quantity = 3
-                        },
-                        new
-                        {
-                            Id = 8,
-                            BrandId = 8,
-                            ImageUrl = "/images/dew.jpg",
-                            Name = "Напиток газированный Mountain Dew",
-                            Price = 100m,
-                            Quantity = 6
-                        });
                 });
 
             modelBuilder.Entity("Database.Models.OrderItem", b =>

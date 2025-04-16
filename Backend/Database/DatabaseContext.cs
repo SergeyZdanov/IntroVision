@@ -37,6 +37,17 @@ namespace Database
                 new Coin { Id = 3, Denomination = 5, Quantity = 100, IsBlocked = false },
                 new Coin { Id = 4, Denomination = 10, Quantity = 100, IsBlocked = false }
             );
+
+            modelBuilder.Entity<Product>().HasData(
+    new Product { Id = 1, Name = "Напиток газированный Coca-Cola", BrandId = 1, Price = 105m, Quantity = 10, ImageUrl = "/images/cola.jpg" },
+    new Product { Id = 2, Name = "Напиток газированный Fanta", BrandId = 2, Price = 98m, Quantity = 5, ImageUrl = "/images/fanta.jpg" },
+    new Product { Id = 3, Name = "Напиток газированный Sprite", BrandId = 3, Price = 83m, Quantity = 8, ImageUrl = "/images/sprite.jpg" },
+    new Product { Id = 4, Name = "Напиток газированный Dr. Pepper Zero", BrandId = 4, Price = 110m, Quantity = 0, ImageUrl = "/images/dr_pepper.jpg" },
+    new Product { Id = 5, Name = "Напиток газированный Pepsi", BrandId = 5, Price = 95m, Quantity = 12, ImageUrl = "/images/pepsi.jpg" },
+    new Product { Id = 6, Name = "Напиток газированный 7UP", BrandId = 6, Price = 85m, Quantity = 7, ImageUrl = "/images/7up.jpg" },
+    new Product { Id = 7, Name = "Напиток газированный Mirinda", BrandId = 7, Price = 92m, Quantity = 3, ImageUrl = "/images/mirinda.jpg" },
+    new Product { Id = 8, Name = "Напиток газированный Mountain Dew", BrandId = 8, Price = 100m, Quantity = 6, ImageUrl = "/images/dew.jpg" }
+            );
         }
 
        /* protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

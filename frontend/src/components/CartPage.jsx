@@ -2,7 +2,7 @@ import React from 'react';
 import { useCart } from '../contexts/CartContext';
 import { Link, useHistory } from 'react-router-dom';
 import { Container, Row, Col, Button, Image, InputGroup, FormControl } from 'react-bootstrap';
-import { FaPlus, FaMinus, FaTrash } from 'react-icons/fa'; // Иконки
+import { FaPlus, FaMinus, FaTrash } from 'react-icons/fa';
 
 const CartPage = () => {
   const {
@@ -12,16 +12,17 @@ const CartPage = () => {
     decrementQuantity,
     updateQuantity,
     totalCartPrice } = useCart();
-  const history = useHistory(); // Для кнопки "Вернуться"
+  const history = useHistory();
+  
+  console.log("Current Cart State:", cart);
 
   const handleQuantityChange = (id, value) => {
     const numValue = parseInt(value, 10);
-    if (!isNaN(numValue)) {
-      updateQuantity(id, numValue);
-    }
+    // updateQuantity теперь сама обрабатывает NaN и < 1 (удаляет товар)
+    updateQuantity(id, numValue);
   };
 
-  if (cart.length === 0) {
+  if (!cart || cart.length === 0) {
     return (
       <Container className="text-center mt-5">
         <h2>Ваша корзина пуста</h2>
@@ -37,20 +38,24 @@ const CartPage = () => {
     <Container className="mt-4">
       <h1 className="mb-4">Оформление заказа</h1>
 
-      {/* Заголовки таблицы */}
       <Row className="d-none d-md-flex mb-3 cart-header">
-         <Col md={2}></Col> {/* Пустая колонка для изображения */}
+         <Col md={2}></Col>
          <Col md={4}><strong>Товар</strong></Col>
          <Col md={3} className="text-center"><strong>Количество</strong></Col>
          <Col md={2} className="text-end"><strong>Цена</strong></Col>
-         <Col md={1}></Col> {/* Пустая колонка для удаления */}
-      </Row>
+         <Col md={1}></Col>
+       </Row>
 
-      {/* Список товаров */}
       {cart.map(item => (
         <Row key={item.id} className="align-items-center mb-3 cart-item">
           <Col xs={3} md={2}>
-            <Image src={item.image} alt={item.name} fluid rounded className="cart-item-image"/>
+            <Image
+                src={item.imageUrl || '/placeholder.png'}
+                alt={item.name}
+                fluid
+                rounded
+                className="cart-item-image"
+            />
           </Col>
           <Col xs={9} md={4}>
             {item.name}
@@ -64,14 +69,14 @@ const CartPage = () => {
                 value={item.quantity}
                 onChange={(e) => handleQuantityChange(item.id, e.target.value)}
                 min="1"
-                max={item.stock} // Устанавливаем максимальное значение
+                max={item.stock} // Используем stock, который должен быть в объекте корзины
               />
               <Button variant="outline-secondary" onClick={() => incrementQuantity(item.id)} disabled={item.quantity >= item.stock}><FaPlus /></Button>
             </InputGroup>
              {item.quantity >= item.stock && <div className="text-danger text-center stock-limit-text">Макс.</div>}
           </Col>
           <Col xs={3} md={2} className="text-end mt-2 mt-md-0">
-            <strong>{(item.price * item.quantity)} руб.</strong>
+             <strong>{(item.price * item.quantity)} руб.</strong>
           </Col>
           <Col xs={1} md={1} className="text-end mt-2 mt-md-0">
             <Button variant="danger" size="sm" onClick={() => removeFromCart(item.id)}>
@@ -83,7 +88,6 @@ const CartPage = () => {
 
       <hr />
 
-      {/* Итоговая сумма и кнопки */}
       <Row className="align-items-center mt-4">
         <Col md={6}>
           <Button variant="warning" onClick={() => history.push('/')} className="return-button">

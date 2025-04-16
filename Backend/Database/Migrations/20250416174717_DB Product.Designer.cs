@@ -3,6 +3,7 @@ using System;
 using Database;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace Database.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    partial class DatabaseContextModelSnapshot : ModelSnapshot
+    [Migration("20250416174717_DB Product")]
+    partial class DBProduct
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -229,7 +232,7 @@ namespace Database.Migrations
                         {
                             Id = 1,
                             BrandId = 1,
-                            ImageUrl = "/images/cola.jpg",
+                            ImageUrl = "/images/cola.png",
                             Name = "Напиток газированный Coca-Cola",
                             Price = 105m,
                             Quantity = 10
@@ -238,7 +241,7 @@ namespace Database.Migrations
                         {
                             Id = 2,
                             BrandId = 2,
-                            ImageUrl = "/images/fanta.jpg",
+                            ImageUrl = "/images/fanta.png",
                             Name = "Напиток газированный Fanta",
                             Price = 98m,
                             Quantity = 5
@@ -247,7 +250,7 @@ namespace Database.Migrations
                         {
                             Id = 3,
                             BrandId = 3,
-                            ImageUrl = "/images/sprite.jpg",
+                            ImageUrl = "/images/sprite.png",
                             Name = "Напиток газированный Sprite",
                             Price = 83m,
                             Quantity = 8
@@ -256,7 +259,7 @@ namespace Database.Migrations
                         {
                             Id = 4,
                             BrandId = 4,
-                            ImageUrl = "/images/dr_pepper.jpg",
+                            ImageUrl = "/images/dr_pepper.png",
                             Name = "Напиток газированный Dr. Pepper Zero",
                             Price = 110m,
                             Quantity = 0
@@ -265,7 +268,7 @@ namespace Database.Migrations
                         {
                             Id = 5,
                             BrandId = 5,
-                            ImageUrl = "/images/pepsi.jpg",
+                            ImageUrl = "/images/pepsi.png",
                             Name = "Напиток газированный Pepsi",
                             Price = 95m,
                             Quantity = 12
@@ -274,7 +277,7 @@ namespace Database.Migrations
                         {
                             Id = 6,
                             BrandId = 6,
-                            ImageUrl = "/images/7up.jpg",
+                            ImageUrl = "/images/7up.png",
                             Name = "Напиток газированный 7UP",
                             Price = 85m,
                             Quantity = 7
@@ -283,7 +286,7 @@ namespace Database.Migrations
                         {
                             Id = 7,
                             BrandId = 7,
-                            ImageUrl = "/images/mirinda.jpg",
+                            ImageUrl = "/images/mirinda.png",
                             Name = "Напиток газированный Mirinda",
                             Price = 92m,
                             Quantity = 3
@@ -292,7 +295,7 @@ namespace Database.Migrations
                         {
                             Id = 8,
                             BrandId = 8,
-                            ImageUrl = "/images/dew.jpg",
+                            ImageUrl = "/images/dew.png",
                             Name = "Напиток газированный Mountain Dew",
                             Price = 100m,
                             Quantity = 6
